@@ -1,0 +1,67 @@
+
+.li-class{
+    display: inline-block;
+    margin-right: 20px;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.link-active{
+    color: blue;
+
+}
+.nav-class{
+    border-bottom: 1px solid grey;
+}
+.ul-class{
+    text-align: center;
+}
+.text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+
+}
+.text-1{
+    font-weight: 300;
+    color: tomato;
+    
+
+}
+.text-2{
+    font-weight: 500;
+    color: royalblue;
+}
+.text-3{
+    font-weight: 700;
+    color: yellowgreen;
+}
+.nav-2{
+    margin-bottom: 40px;
+    
+}
+.text-l{
+    margin-bottom: 20px;
+}
+.text-6{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 400;
+    font-size: 16px;
+}
+.class{
+        height: 100px;
+        width: 100px;      
+        background:royalblue;
+        display: inline-block;
+}
+.class-2{
+    background: seagreen;
+
+}
+.class-3{
+    background: orange;
+}
+.text-7{
+    margin-bottom: 10px;
+}
